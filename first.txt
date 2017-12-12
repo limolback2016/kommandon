@@ -1,5 +1,16 @@
-this is my first version.
-
-### Frist time edit file after installing git-bash. Good job!
-
-### Now I test to do it again in mac. Good lucky to me!
+total 48
+-rw-r--r--  1 limolback  staff  100 Apr 25 18:02 README.md
+-rw-r--r--  1 limolback  staff    0 Jun 12 20:35 first.txt
+-rw-r--r--  1 limolback  staff   74 Apr 25 18:02 git_function.txt
+-rw-r--r--  1 limolback  staff   64 Jun 11 19:38 listan
+-rw-r--r--  1 limolback  staff   64 Jun  9 23:41 listoutput
+-rw-r--r--  1 limolback  staff   48 Jun  9 23:37 second.txt
+-rw-r--r--  1 limolback  staff   18 Jun  9 23:41 somefile.txt
+total 56
+-rw-r--r--  1 limolback  staff  100 Apr 25 18:02 README.md
+-rw-r--r--  1 limolback  staff  431 Jun 12 20:35 first.txt
+-rw-r--r--  1 limolback  staff   74 Apr 25 18:02 git_function.txt
+-rw-r--r--  1 limolback  staff   64 Jun 11 19:38 listan
+-rw-r--r--  1 limolback  staff   64 Jun  9 23:41 listoutput
+-rw-r--r--  1 limolback  staff   48 Jun  9 23:37 second.txt
+-rw-r--r--  1 limolback  staff   18 Jun  9 23:41 somefile.txt
